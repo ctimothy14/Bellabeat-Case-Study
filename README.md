@@ -12,4 +12,11 @@ Identify & unlock new growth opportunities with data analysis by:
 - Gain insight into how consumers use non-Bellabeat smart devices
 - Identify how Bellabeat can use these insights to modify its marketing strategy.
 
-### test
+
+#### Key Stakeholders
+- Urška Sršen (cofounder and Chief Creative Officer)
+- Sando Mur (cofounder and Bellabeat executive team member)
+- Bellabeat marketing analytics team
+
+
+## Data Source
