@@ -20,3 +20,5 @@ Identify & unlock new growth opportunities with data analysis by:
 
 
 ## Data Source
+- The dataset used for this analysis: [FitBit Fitness Tracker Data](https://www.kaggle.com/arashnic/fitbit).
+- CC0: Public Domain, dataset made available through [Mobius](https://www.kaggle.com/arashnic).
