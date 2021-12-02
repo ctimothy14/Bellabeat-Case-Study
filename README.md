@@ -8,14 +8,14 @@ Author: Timothy Chung
 Bellabeat is a successful small high-tech company that manufactures health-focused smart products for women since 2013. 
 The co-founder and Chief Creative Officer, Urška Sršen is confident that an analysis of non-Bellebeat consumer data (ie. FitBit fitness tracker usage data) would reveal more opportunities for growth.
 
-In order to answer the key business objectives I will be following the six steps of the data analysis process: </
+In order to answer the key business objectives I will be following the six steps of the data analysis process: <b>
 1. Ask
 2. Prepare
 3. Process
 4. Analyse
 5. Share
 6. Act
-> 
+</b>
 
 ## Business Objective:
 Identify & unlock new growth opportunities with data analysis by:
