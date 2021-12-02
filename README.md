@@ -2,7 +2,11 @@
 
 Author: Timothy Chung
 
+![bellabeat](https://images.squarespace-cdn.com/content/v1/5728a8934c2f851f7869e740/1471378814643-EWDK54XMPVMM37YWKJD2/Unknown.png?format=1500w)
+
 ## Introduction
+Bellabeat is a successful small high-tech company that manufactures health-focused smart products for women since 2013. 
+The co-founder and Chief Creative Officer, Urška Sršen is confident that an analysis of non-Bellebeat consumer data (ie. FitBit fitness tracker usage data) would reveal more opportunities for growth.
 
 
 ## Business Objective:
