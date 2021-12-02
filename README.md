@@ -17,6 +17,7 @@ In order to answer the key business objectives I will be following the six steps
 6. Act
 </b>
 
+# Ask
 ## Business Objective:
 Identify & unlock new growth opportunities with data analysis by:
 
