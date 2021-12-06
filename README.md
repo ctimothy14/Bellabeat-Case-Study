@@ -47,4 +47,8 @@ A good data source should "ROCCC":
 - <b>C</b>ited 
 
 After looking at the data, I will assign ratings of LOW, MEDIUM & HIGH to the following ROCCC acronym to determine the creditbilty of the data set being used.
-1. Reliable: 
+1. Reliable: LOW - Data collected from only 30 partipants which means that the dataset is quite small and will not show an accurate respresentation of the true population.
+2. Orignal: LOW - The data was collected by Amazon Mechanical Turk which is a third party entity. With limited information given on how these surveys were conducted & collected, there is no guarantee that these surveys were done at random. Therefore this could lead to potentially bias data,
+3. Comprehensive: LOW - The data does not include any qualitative data or additional information about the users.
+4. Current: LOW - Dataset is 5 years old and was collected between 3/12/2016 - 5/12/2016.
+5. Cited: LOW - 
