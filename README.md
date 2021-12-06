@@ -51,4 +51,7 @@ After looking at the data, I will assign ratings of LOW, MEDIUM & HIGH to the fo
 2. Orignal: LOW - The data was collected by Amazon Mechanical Turk which is a third party entity. With limited information given on how these surveys were conducted & collected, there is no guarantee that these surveys were done at random. Therefore this could lead to potentially bias data,
 3. Comprehensive: LOW - The data does not include any qualitative data or additional information about the users.
 4. Current: LOW - Dataset is 5 years old and was collected between 3/12/2016 - 5/12/2016.
-5. Cited: LOW - 
+5. Cited: LOW - Data is collected by a third party platform
+
+The dataset provided is not comprehensive enough to provide a full detailed analysis into all of Bellabeats products. After further examination of the all the datasets provided many of the datasets provided are either redundant, have no relevance in answering the business objective & lack the sufficent data to perform the analysis required.
+I have decided to use the dailyActivity_merged.csv to analysis the business objective as this was the only dataset that had releveant information needed.
